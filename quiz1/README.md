@@ -7,11 +7,4 @@ pi = 0.5235514642438139 , n = 6 , error = 0.8333483930051946
 ```
 
 # Which converges faster 
-
-
-This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
-
-$$
-a = 1
-$$
-第二個， $ {\pi \over 6} = \tan^{-1}{1 \over \sqrt{3}} $
+第二個， ${\pi \over 6} = \tan^{-1}{1 \over \sqrt{3}} $
