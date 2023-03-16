@@ -2,6 +2,8 @@
 
 C24106082 陳宏彰
 
+![](./quiz.png)
+
 ## 17. Gauss-Seidel
 
 輸出：
