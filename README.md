@@ -8,3 +8,4 @@ NCKU Numerical Analysis
 * [quiz 4](./quiz4) fitting
 * [quiz 5](./quiz5) roots
 * [quiz 6](./quiz6) defferential
+* [quiz 7](./quiz7) integral
