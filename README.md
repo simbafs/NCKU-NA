@@ -9,3 +9,4 @@ NCKU Numerical Analysis
 * [quiz 5](./quiz5) roots
 * [quiz 6](./quiz6) defferential
 * [quiz 7](./quiz7) integral
+* [quiz 8](./quiz8) 給 **初始值** 解求微分方程的值
