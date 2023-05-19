@@ -13,3 +13,5 @@ NCKU Numerical Analysis
 * [quiz 9](./quiz9) 給 **邊界條件** 求微分方程的解
 * [quiz 10](./quiz10) eigenproblem
 * [quiz 11](./quiz11) eigenproblem, 只算前 N 個
+* [quiz 12](./quiz12) 不用微分找最小值，有 constraints
+
