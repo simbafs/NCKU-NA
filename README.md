@@ -14,4 +14,4 @@ NCKU Numerical Analysis
 * [quiz 10](./quiz10) eigenproblem
 * [quiz 11](./quiz11) eigenproblem, 只算前 N 個
 * [quiz 12](./quiz12) 不用微分找最小值，有 constraints
-
+* [quiz 13](./quiz13) 蒙地卡羅算 pi 
